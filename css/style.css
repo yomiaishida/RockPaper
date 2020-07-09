@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapi.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
 :root {
   --primary-color: #003699;
@@ -38,6 +38,7 @@ body {
   cursor: pointer;
   outline: none;
   border: none;
+  margin-bottom: 1rem;
 }
 
 .restart-btn:hover {
